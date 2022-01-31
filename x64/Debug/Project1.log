@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(30,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(42,28): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(131,11): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(139,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(174,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(186,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(202,32): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(223,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(255,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(276,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(281,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(287,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\OneDrive\Документы\GitHub\SFML\Source.cpp(348,21): warning C4305: +=: усечение из "double" в "float"
+  Project1.vcxproj -> C:\Users\Admin\OneDrive\Документы\GitHub\SFML\x64\Debug\Project1.exe
